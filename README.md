@@ -1,7 +1,7 @@
 <h1 align="center" >Hi there I'm Luciano!👋</h1> 
 <h3 align="center">👨🏻‍💻 Frontend Developer</h3> 
 <p align="center">
-<img src="https://raw.githubusercontent.com/LuchoNapo/LuchoNapo/1a4413b7df98655a75161c48c330bd672c383e30/pepp%20editado.png" alt="Banner" width="300"/></p>
+<img src="https://github.com/LuchoNapo/LuchoNapo/blob/main/Yo_Peep.png?raw=true" alt="Banner" width="300"/></p>
 I'm a frontend developer passionate about both design and functionality from Mendoza Argentina. Currently, I work at Aenima, a digital marketing agency, where I help create innovative and optimized web experiences. I love exploring new technologies and continuously improving the digital experience of the projects I’m involved in. 
 
 <h3>🔧 Technologies I work with</h3>
