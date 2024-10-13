@@ -21,8 +21,8 @@ I'm a frontend developer passionate about both design and functionality from Men
 I’ve worked on a variety of projects both within the agency and in my personal portfolio, including:
 
 Custom websites for clients seeking optimized experiences in both performance and design.          
-Interactive web applications built with React and Next.js, focused on SEO and performance.
-Personal portfolio where I experiment with Astro and Tailwind to create modern, fast interfaces.
+Interactive web applications built with `React` and `Next.js`, focused on SEO and performance.
+Personal portfolio where I experiment with `Astro` and `Tailwind` to create modern, fast interfaces.
 
 <h3>🌱 Always learning: </h3> 
 I’m constantly evolving, exploring new technologies and frameworks to stay up to date with the latest frontend trends.
