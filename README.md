@@ -6,15 +6,20 @@ I'm a frontend developer passionate about both design and functionality from Men
 
 <h3>🔧 Technologies I work with</h3>
 
->#Languages: <img alt="Static Badge" src="https://img.shields.io/badge/HTML-orange">  <img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue">  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-yellow">  <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-blue">
+>#Languages: <img alt="Static Badge" src="https://img.shields.io/badge/HTML-orange">  <img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-yellow"> <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-%233178C6"> 
+
 
 >#Frameworks & Libraries: 
-<img alt="Static Badge" src="https://img.shields.io/badge/React-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/Next-black"> <img alt="Static Badge" src="https://img.shields.io/badge/Astro-8A2BE2">
+<img alt="Static Badge" src="https://img.shields.io/badge/React-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/Next-black"> <img alt="Static Badge" src="https://img.shields.io/badge/Astro-%23FD5A00"> <img alt="Static Badge" src="https://img.shields.io/badge/Vite-%23F5B915">
 
->#Styling: <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind-38BDF8"> <img alt="Static Badge" src="https://img.shields.io/badge/SCSS-pink"> <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-8A2BE2">
+
+
+>#Styling: <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind-38BDF8"> <img alt="Static Badge" src="https://img.shields.io/badge/SCSS-pink"> <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-%238A12FB">
 
 >#Tools: <img alt="Static Badge" src="https://img.shields.io/badge/Vercel-grey">
- <img alt="Static Badge" src="https://img.shields.io/badge/Git-orange"> <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-black">
+ <img alt="Static Badge" src="https://img.shields.io/badge/Git-orange"> <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-black"> <img alt="Static Badge" src="https://img.shields.io/badge/Wordpress-%23207196">
+
+
 
 
 <h3>🚀 Recent Projects:</h3>
