@@ -30,4 +30,4 @@ I’m constantly evolving, exploring new technologies and frameworks to stay up 
 If you'd like to talk tech, collaborate on a project, or simply share ideas, feel free to reach out! <br><br>
 
 
-__You can check out my porfolio [here](https://portfolio-luchonapos-projects.vercel.app/).__
+__You can check out my porfolio <a href="https://portfolio-luchonapos-projects.vercel.app/" target="_blank">here</a>__
