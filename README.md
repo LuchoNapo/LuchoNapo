@@ -6,7 +6,7 @@ I'm a frontend developer passionate about both design and functionality from Men
 
 <h3>🔧 Technologies I work with</h3>
 
->#Languages:<img alt="Static Badge" src="https://img.shields.io/badge/HTML-orange">  <img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue">  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-yellow">  <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-blue">
+>#Languages: <img alt="Static Badge" src="https://img.shields.io/badge/HTML-orange">  <img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue">  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-yellow">  <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-blue">
 
 >#Frameworks & Libraries: 
 <img alt="Static Badge" src="https://img.shields.io/badge/React-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/Next-black"> <img alt="Static Badge" src="https://img.shields.io/badge/Astro-8A2BE2">
